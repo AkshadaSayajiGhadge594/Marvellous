@@ -1,0 +1,35 @@
+{
+    "products": [
+        {
+            "_id": "pic1",
+            "image": "/images/pic1.jpg",
+            "title":"LG 10.5 Kg / 7.0 Kg Inverter Automated Wi-Fi Washer Dryer washing machine", 
+            "price":55000
+        },
+        {
+            "_id": "pic2",
+            "image": "/images/pic2.jpg",
+            "title": "LG 8 Kg 5 Star Inverter Wi-Fi Fully-Automatic Front Loading Washing Machine",
+            "price":40500
+        },
+        {
+            "_id": "pic3",
+            "image": "/images/pic3.jpg",
+            "title":  "LG 9 kg 5 Star Fully-Automatic Front Loading Washing Machine ",
+            "price":50000 
+        },
+        {
+            "_id": "pic4",
+            "image": "/images/pic4.jpg",
+            "title": "BOSCH 6 kg 5 Star Front Loading Washing Machine .",
+            "price":25000 
+        } ,
+        {
+            "_id": "pic5",
+            "image": "/images/pic5.jpg",
+            "title": "LG 7 kg 5 Star Inverter Wi-Fi Fully-Automatic Front Loading Washing Machine ",
+            "price":38000
+            
+        }
+    ]
+}
